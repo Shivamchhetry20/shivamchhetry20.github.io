@@ -1,7 +1,7 @@
-baseURL = "https://shivamchhetry20.github.io"
+baseURL = "https://shivamchhetry20.github.io/"
 languageCode = "en"
 theme = "hugo-apero"
-title = "Hugo Apéro"
+title = "Shivam Chhetry"
 author = "Alison Hill"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
